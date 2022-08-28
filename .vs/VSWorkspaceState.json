@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\docs",
+    "\\docs\\.vuepress",
+    "\\docs\\.vuepress\\config",
+    "\\docs\\.vuepress\\config\\themeConfig"
+  ],
+  "SelectedNode": "\\README.md",
+  "PreviewInSolutionExplorer": false
+}
